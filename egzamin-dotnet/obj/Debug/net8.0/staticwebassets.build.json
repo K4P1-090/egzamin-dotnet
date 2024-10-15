@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0ZV+erETJUIFjXis5WEriLCIvJjrC1PaMsKxfnKeYL4=",
+  "Hash": "EhNDyMx/GsCl/R+PGEs9dsMKi3EyK86Ks9+2yyMZxJ8=",
   "Source": "egzamin-dotnet",
   "BasePath": "_content/egzamin-dotnet",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "egzamin-dotnet\\wwwroot",
       "Source": "egzamin-dotnet",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\1.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\1.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "1.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\1.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\2.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\2.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "2.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\2.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\3.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\3.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "3.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\3.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\4.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\4.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "4.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\4.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\5.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\5.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "5.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\5.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\6.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\6.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "6.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\6.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\7.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\7.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "7.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\7.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\8.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\8.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "8.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\8.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\9.jpg",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\9.jpg",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "9.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\9.jpg"
     },
     {
-      "Identity": "F:\\szkola\\egzamin-dotnet\\wwwroot\\styl9.css",
+      "Identity": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\styl9.css",
       "SourceId": "egzamin-dotnet",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\szkola\\egzamin-dotnet\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\kapig\\OneDrive\\Dokumenty\\GitHub\\egzamin-dotnet\\egzamin-dotnet\\wwwroot\\",
       "BasePath": "_content/egzamin-dotnet",
       "RelativePath": "styl9.css",
       "AssetKind": "All",
